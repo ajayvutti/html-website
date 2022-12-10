@@ -20,7 +20,7 @@
         .subnav {
             border: .2px solid black;
             margin-top: 5px;
-            margin-bottom: 10px;
+            margin-bottom: 20px;
             padding: 5px;
             height: 35px;
             font-weight: bold;
